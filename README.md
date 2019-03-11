@@ -1,5 +1,4 @@
 # saveyourinternet
-saveyourinternet
 
 Use this code on your website (needs javascript) and every time the web page is loaded a "modal message" shows up. Cookies are not used.
 
