@@ -13,7 +13,4 @@ English:
 
 The web site "saveyourinternet.oregami.org" does not record any personal data, so a privacy policy is not necessary.
 
-For questions ask me at:
-
-Sebastian Eichholz
-saveyourinternet@oregami.org
+For questions ask me (Sebastian Eichholz) at saveyourinternet@oregami.org
