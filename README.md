@@ -10,6 +10,11 @@ English:
 <pre><code><script>var saveyourinternet_language = 'en';</script>
 <script async src="https://saveyourinternet.oregami.org/saveyourinternet.js"></script></code></pre>
 
+French:
+<pre><code><script>var saveyourinternet_language = 'fr';</script>
+<script async src="https://saveyourinternet.oregami.org/saveyourinternet.js"></script></code></pre>
+
+
 The web site "saveyourinternet.oregami.org" does not record any personal data, so a privacy policy is not necessary.
 
 For questions ask me (Sebastian Eichholz) at saveyourinternet@oregami.org

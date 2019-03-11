@@ -22,6 +22,12 @@ content['en'] = [
   'We are against the new EU copyright reform.',
   'Are you, too? Then help prevent the reform!'
 ]
+content['fr'] = [
+  'Nous sommes contre la nouvelle réforme du droit d'auteur de l'UE.',
+  'Toi aussi? Alors aidez à prévenir la réforme !'
+]
+
+
 
 var syi0 = '<div style="font-family: Arial; padding-top: 2cm;"><h1>';
 var syi1 = '<br/><br></h1><h2>';
