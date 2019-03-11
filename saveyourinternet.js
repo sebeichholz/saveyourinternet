@@ -23,7 +23,7 @@ content['en'] = [
   'Are you, too? Then help prevent the reform!'
 ]
 content['fr'] = [
-  'Nous sommes contre la nouvelle réforme du droit d'auteur de l'UE.',
+  'Nous sommes contre la nouvelle réforme du droit d\'auteur de l\'UE.',
   'Toi aussi? Alors aidez à prévenir la réforme !'
 ]
 
