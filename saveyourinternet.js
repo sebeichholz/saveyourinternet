@@ -5,7 +5,7 @@ function syi_off() {
 var syi_div1 = document.createElement('div');
 syi_div1.setAttribute('id','overlay');
 syi_div1.setAttribute('onclick','syi_off()');
-syi_div1.setAttribute('style','height: 92%; width: 92%; background-color:black; color: white; opacity: 0.9; position: fixed; top: 4%; left: 4%; text-align:center;');
+syi_div1.setAttribute('style','height: 92%; width: 92%; background-color:black; color: white; opacity: 0.9; position: fixed; top: 4%; left: 4%; text-align:center; font-size: 70%;');
 document.body.appendChild(syi_div1);
 
 //##### Default language: German
@@ -29,8 +29,8 @@ content['fr'] = [
 
 
 
-var syi0 = '<div style="font-family: Arial; padding-top: 2cm;"><h1>';
-var syi1 = '<br/><br></h1><h2>';
+var syi0 = '<div style="font-family: Arial; padding-top: 5mm;"><h1>';
+var syi1 = '<br/></h1><h2>';
 var syi2 = '<br/></h2>';
 
 //############## de  => German ####################
