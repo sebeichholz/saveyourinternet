@@ -25,7 +25,7 @@ content['en'] = [
 
 var syi0 = '<div style="font-family: Arial; padding-top: 2cm;"><h1>';
 var syi1 = '<br/><br></h1><h2>';
-var syi2 = '<br/><br/></h2>';
+var syi2 = '<br/></h2>';
 
 //############## de  => German ####################
 document.getElementById('overlay').innerHTML =
@@ -34,9 +34,10 @@ content[saveyourinternet_language][0] +
 syi1 +
 content[saveyourinternet_language][1] +
 syi2 +
-'<h2><a style="color: yellow;" href="https://saveyourinternet.eu/" target="blank">https://saveyourinternet.eu</a></h2>' +
-'<h2><a style="color: yellow;" href="https://pledge2019.eu" target="blank">https://pledge2019.eu</a></h2>' +
-'<h2><a style="color: yellow;" href="https://twitter.com/hashtag/SaveYourInternet" target="blank">#SaveYourInternet</a> @Twitter</h2>' +
-'<div style="position: absolute; bottom: 5px; left: 45%; text-align: center;"><a href="" target="_blank" style="color: #dddd00;">source code</a></div>' +
+'<h2><a style="color: yellow;" href="https://saveyourinternet.eu/" target="blank">saveyourinternet.eu</a></h2>' +
+'<h2><a style="color: yellow;" href="https://savetheinternet.info/" target="blank">savetheinternet.info</a></h2>' +
+'<h2><a style="color: yellow;" href="https://pledge2019.eu" target="blank">pledge2019.eu</a></h2>' +
+'<h2><a style="color: yellow;" href="https://twitter.com/hashtag/SaveYourInternet" target="blank" title="#SaveYourInternet @Twitter">#SaveYourInternet</a></h2>' +
+'<div style="position: absolute; bottom: 5px; left: 5px; text-align: center;"><a href="https://github.com/sebeichholz/saveyourinternet" target="_blank" style="color: #dddd00;">source code</a></div>' +
 '</div>'
 ;
