@@ -16,5 +16,4 @@ The web site "saveyourinternet.oregami.org" does not record any personal data, s
 For questions ask me at:
 
 Sebastian Eichholz
-
 saveyourinternet@oregami.org
