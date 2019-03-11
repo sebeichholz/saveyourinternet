@@ -15,11 +15,11 @@ if (saveyourinternet_language==null) {
 
 var content = new Object();
 content['de'] = [
-  'Wir sind gegen die neue Urheberrechtsreform.',
+  'Wir sind gegen die neue EU-Urheberrechtsreform.',
   'Du auch? Dann hilf mit, die Reform zu verhindern!'
 ]
 content['en'] = [
-  'We are against the new copyright reform.',
+  'We are against the new EU copyright reform.',
   'Are you, too? Then help prevent the reform!'
 ]
 
