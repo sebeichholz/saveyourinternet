@@ -4,8 +4,9 @@ function syi_off() {
 
 var syi_div1 = document.createElement('div');
 syi_div1.setAttribute('id','overlay');
+syi_div1.setAttribute('class','syi_div');
 syi_div1.setAttribute('onclick','syi_off()');
-syi_div1.setAttribute('style','height: 92%; width: 92%; background-color:black; color: white; opacity: 0.9; position: fixed; top: 4%; left: 4%; text-align:center; font-size: 70%;');
+syi_div1.setAttribute('style','height: 92%; width: 92%; background-color:black; color: white; opacity: 0.9; position: fixed; top: 4%; left: 4%; text-align:center;');
 document.body.appendChild(syi_div1);
 
 //##### Default language: German
@@ -47,3 +48,11 @@ syi2 +
 '<div style="position: absolute; bottom: 5px; left: 5px; text-align: center;"><a href="https://github.com/sebeichholz/saveyourinternet" target="_blank" style="color: #dddd00;">source code</a></div>' +
 '</div>'
 ;
+
+var css = document.createElement("style");
+css.setAttribute('id','syi_style');
+
+css.type = "text/css";
+document.body.appendChild(css);
+document.getElementById('syi_style').textContent +=
+    ".syi_div { font-size:75%; }\n@media screen and (min-width:800px) { .syi_div { font-size:120%; }}\n"
